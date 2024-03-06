@@ -48,4 +48,5 @@ January 2016 - December 2017
 August 2011 - June 2015  
 - Senior project: Design and Development of water propelled resistojet
 
-[pdf version](https://github.com/RoboKafka/Rohit_Resume/blob/main/Rohit_Resume_2024.pdf)
+Right-click [here](https://github.com/RoboKafka/Rohit_Resume/blob/main/Rohit_Resume_2024.pdf) and select 'Save link as...' or 'Download Linked File As...' to download the PDF version of my resume.
+
