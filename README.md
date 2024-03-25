@@ -9,6 +9,7 @@
 Belfast, Northern Ireland  
 November 2022 - On Going
 - Designed, programmed, and deployed a tamping system using PLC Opta and affiliated sensors for the roast line, potentially decreasing labor by 3 operators and saving about £60,000 a year.
+- Designed and deployed an Intelligent Weighing scale system using Rs232 module, Arduino wifi, created an MQTT client and broker to display real time values for accurate cuts. 
 - Embedded real-time process control using Visual Stuio and C# with a focus on HMI integration, achieving lean manufacturing metrics such as cycle time and scrap as % VOP.
 - 3D factory Simulation , data modelling and activity based cost estimation for 3 seperate lines , showcasing production rates, bottle necks and addition of intelligent systems.
 - Parametric designs for gut trays on the kill floor and digital twin design on Unity AR, leading to a decrease of 1 week in total planning hours.
