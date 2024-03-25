@@ -8,13 +8,13 @@
 ### WD Meats - Digital Manufacturing and Automation Lead
 Belfast, Northern Ireland  
 November 2022 - On Going
-- Designed, programmed, and deployed a tamping system using Mitsubishi PLC and affiliated sensors for the roast line, decreasing labor by 3 operators and saving about £60,000 a year.
-- Embedded real-time process control using C++ on Ubuntu 20.04 with a focus on HMI integration, achieving lean manufacturing metrics such as cycle time and scrap as % VOP.
+- Designed, programmed, and deployed a tamping system using PLC Opta and affiliated sensors for the roast line, potentially decreasing labor by 3 operators and saving about £60,000 a year.
+- Embedded real-time process control using Visual Stuio and C# with a focus on HMI integration, achieving lean manufacturing metrics such as cycle time and scrap as % VOP.
+- 3D factory Simulation , data modelling and activity based cost estimation for 3 seperate lines , showcasing production rates, bottle necks and addition of intelligent systems.
 - Parametric designs for gut trays on the kill floor and digital twin design on Unity AR, leading to a decrease of 1 week in total planning hours.
 - Integrated and managed small-scale SCADA for condition monitoring for kill floor motors with a focus on predictive maintenance.
 - Bespoke Inventory management architecture design and built using .Net Framework and SQL, modeled to forecast buyer needs and production.
 - Data acquisition through SQL and developed a .net application on C# for capturing and visualizing insights on data as well as monitoring progress on the production line for senior management and the floor supervisors.
-- Develop and document New Process/Product Introduction (NPI) processes.
 
 ### University of Glasgow - Robotics and AI MS
 Glasgow, UK  
