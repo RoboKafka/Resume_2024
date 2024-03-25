@@ -5,7 +5,7 @@
 
 ## Work Experience
 
-### WD Meats - Digital Manufacturing and Automation Lead
+### WD Meats - Digital Manufacturing and Automation Assocaite
 Belfast, Northern Ireland  
 November 2022 - On Going
 - Designed, programmed, and deployed a tamping system using PLC Opta and affiliated sensors for the roast line, potentially decreasing labor by 3 operators and saving about £60,000 a year.
